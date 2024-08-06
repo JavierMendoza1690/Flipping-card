@@ -81,7 +81,7 @@
     transform-style: preserve-3d;
   }
 
-  .container:hover{
+  section:hover .container{
     transform: rotateY(180deg);
   }
 
